@@ -1,3 +1,7 @@
+## 4.1.2
+
+- Adds `void replace()` and `replaceNamed` to `GoRouterDelegate`, `GoRouter` and `GoRouterHelper`.
+
 ## 4.1.1
 
 - Fixes a bug where calling extra parameter is always null in route level redirect callback
